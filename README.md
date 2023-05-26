@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Code-with-Shami
 - 👀 I’m interested in web development and designing
-- 🌱 I’m currently doing bachelor in computer science
+- 🌱 I’m computer science graduate.
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me on GitHub
 
